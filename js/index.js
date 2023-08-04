@@ -172,7 +172,7 @@
     }],
     series: [
       {
-        name: '农村人均收入',
+        name: '农村人均纯收入',
         type: 'bar',
         barWidth: '35%',
         color:"#D2691E",
